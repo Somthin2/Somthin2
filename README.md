@@ -20,15 +20,9 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" width="28" /> `whoami`
 
-```yaml
-name:      Athanasios Pavlides
-location:  Klagenfurt, Austria 🇦🇹  (from Cyprus 🇨🇾)
-role:      Security Researcher · Bug Bounty Hunter
-studying:  MSc AI & Cybersecurity @ Alpen-Adria-Universität Klagenfurt
-degree:    BSc Computer Science (First Class, Minor in Mathematics) @ University of Nicosia
-focus:     [web security, post-quantum cryptography, AI x security]
-languages: [Greek, English, German (learning)]
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1200&pause=400&color=FF4D4D&background=0D1117&multiline=true&repeat=false&width=820&height=270&lines=%24+whoami;athanasios_pavlides+%E2%80%94+security+researcher+and+bug+bounty+hunter;%24+cat+location.txt;Klagenfurt%2C+Austria+%28originally+Cyprus%29;%24+cat+education.txt;MSc+AI+and+Cybersecurity+%40+Alpen-Adria-Universit%C3%A4t+Klagenfurt;BSc+Computer+Science%2C+First+Class+%40+University+of+Nicosia;%24+cat+focus.txt;web+security+%C2%B7+post-quantum+crypto+%C2%B7+AI+x+security;%24+.%2Fhunt+--platforms;%5B%2B%5D+HackerOne+++%5B%2B%5D+Intigriti+++%5B%2B%5D+HackTheBox;%24+%E2%96%88" alt="$ whoami — Athanasios Pavlides, security researcher and bug bounty hunter based in Klagenfurt, Austria. MSc AI and Cybersecurity @ AAU, BSc Computer Science @ UNIC. Focus: web security, post-quantum crypto, AI x security." />
+</p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> Highlights
 
