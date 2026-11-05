@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:d7141a&height=180&section=header&text=Athanasios%20Pavlides&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Security%20Researcher%20%C2%B7%20Bug%20Bounty%20Hunter%20%C2%B7%20MSc%20AI%20%26%20Cybersecurity&descAlignY=58&descSize=16" alt="Athanasios Pavlides" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:d7141a&height=180&section=header&text=Athanasios%20Pavlides&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Security%20Researcher%20%C2%B7%20Bug%20Bounty%20Hunter%20%C2%B7%20MSc%20AI%20and%20Cybersecurity&descAlignY=58&descSize=16" alt="Athanasios Pavlides" />
 </p>
 
 <p align="center">
