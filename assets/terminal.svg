@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="920" height="473" viewBox="0 0 920 473" role="img" aria-label="Terminal: whoami — Athanasios Pavlides, security researcher and bug bounty hunter in Klagenfurt, Austria">
+<defs>
+  <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d7141a" stop-opacity=".9"/><stop offset=".5" stop-color="#30363d"/><stop offset="1" stop-color="#d7141a" stop-opacity=".6"/></linearGradient>
+</defs>
+<style>text{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;font-size:17px;white-space:pre}</style>
+<rect x="1" y="1" width="918" height="471" rx="12" fill="#0d1117" stroke="url(#edge)" stroke-width="1.5"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 H907 a12 12 0 0 1 12 12 V44 H1 Z" fill="#161b22"/>
+<line x1="1" y1="44" x2="919" y2="44" stroke="#30363d"/>
+<circle cx="26" cy="23" r="7" fill="#ff5f57"/><circle cx="48" cy="23" r="7" fill="#febc2e"/><circle cx="70" cy="23" r="7" fill="#28c840"/>
+<text x="460.0" y="28" text-anchor="middle" style="font-size:14px" fill="#8b949e">somthin2@klagenfurt: ~/phantom-thief — zsh</text>
+<clipPath id="c0"><rect x="32" y="70" height="31" width="0">
+  <animate attributeName="width" from="0" to="111.6" begin="0.5s" dur="0.44s" fill="freeze"/></rect></clipPath>
+<text x="36" y="92" clip-path="url(#c0)"><tspan fill="#ff4d4d">$ </tspan><tspan fill="#7ee787">whoami</tspan></text>
+<text x="36" y="123" opacity="0"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#e6edf3">Athanasios Pavlides :: Security Researcher · Bug Bounty Hunter</tspan><set attributeName="opacity" to="1" begin="1.29s" fill="freeze"/></text>
+<clipPath id="c2"><rect x="32" y="132" height="31" width="0">
+  <animate attributeName="width" from="0" to="213.6" begin="1.47s" dur="0.99s" fill="freeze"/></rect></clipPath>
+<text x="36" y="154" clip-path="url(#c2)"><tspan fill="#ff4d4d">$ </tspan><tspan fill="#7ee787">cat location.txt</tspan></text>
+<text x="36" y="185" opacity="0"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#e6edf3">Klagenfurt, Austria  </tspan><tspan fill="#8b949e">// originally Cyprus</tspan><set attributeName="opacity" to="1" begin="2.8099999999999996s" fill="freeze"/></text>
+<clipPath id="c4"><rect x="32" y="194" height="31" width="0">
+  <animate attributeName="width" from="0" to="223.79999999999998" begin="2.9899999999999998s" dur="1.04s" fill="freeze"/></rect></clipPath>
+<text x="36" y="216" clip-path="url(#c4)"><tspan fill="#ff4d4d">$ </tspan><tspan fill="#7ee787">cat education.txt</tspan></text>
+<text x="36" y="247" opacity="0"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#e6edf3">MSc AI &amp; Cybersecurity @ Alpen-Adria-Universität Klagenfurt</tspan><set attributeName="opacity" to="1" begin="4.38s" fill="freeze"/></text>
+<text x="36" y="278" opacity="0"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#e6edf3">BSc Computer Science (First Class) @ University of Nicosia</tspan><set attributeName="opacity" to="1" begin="4.56s" fill="freeze"/></text>
+<clipPath id="c7"><rect x="32" y="287" height="31" width="0">
+  <animate attributeName="width" from="0" to="346.2" begin="4.739999999999999s" dur="1.71s" fill="freeze"/></rect></clipPath>
+<text x="36" y="309" clip-path="url(#c7)"><tspan fill="#ff4d4d">$ </tspan><tspan fill="#7ee787">./hunt --platforms --research</tspan></text>
+<text x="36" y="340" opacity="0"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#79c0ff">[ OK ] </tspan><tspan fill="#79c0ff">HackerOne   </tspan><tspan fill="#79c0ff">[ OK ] </tspan><tspan fill="#79c0ff">Intigriti   </tspan><tspan fill="#79c0ff">[ OK ] </tspan><tspan fill="#79c0ff">HackTheBox</tspan><set attributeName="opacity" to="1" begin="6.799999999999999s" fill="freeze"/></text>
+<text x="36" y="371" opacity="0"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#79c0ff">[ OK ] </tspan><tspan fill="#79c0ff">IEEE CSNet'26 paper   </tspan><tspan fill="#79c0ff">[ OK ] </tspan><tspan fill="#79c0ff">ML-KEM-768 in Signal</tspan><set attributeName="opacity" to="1" begin="6.979999999999999s" fill="freeze"/></text>
+<text x="36" y="402" opacity="0" filter="url(#glow)"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#7ee787">ACCESS GRANTED</tspan><tspan fill="#ff4d4d">  — take your heart.</tspan><set attributeName="opacity" to="1" begin="7.159999999999998s" fill="freeze"/></text>
+<text x="36" y="433"><tspan fill="#ff4d4d">$ </tspan></text>
+<rect x="58" y="416" width="10" height="20" fill="#ff4d4d" opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.5;0.51" dur="1s" begin="7.459999999999998s" repeatCount="indefinite"/></rect>
+</svg>
