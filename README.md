@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://somthin2.github.io/AthanasiosPortfolio/">
+  <a href="https://somthin2.github.io/AthanasiosPortfolio/?ref=github">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=D7141A&center=true&vCenter=true&width=650&lines=Breaking+things%2C+responsibly.;Post-quantum+crypto+%E2%80%A2+Web+security+%E2%80%A2+AI;Hunting+bugs+on+HackerOne+%26+Intigriti;IEEE+CSNet'26+author;Take+your+heart.+%F0%9F%83%8F" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://somthin2.github.io/AthanasiosPortfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-d7141a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://somthin2.github.io/AthanasiosPortfolio/?ref=github"><img src="https://img.shields.io/badge/Portfolio-Visit-d7141a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/athanasios-pavlides-2293a2283/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:thanospavlides1234@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=Somthin2&label=Profile%20views&color=d7141a&style=for-the-badge" alt="Profile views" />
@@ -21,7 +21,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" width="28" /> `whoami`
 
 <p align="center">
-  <a href="https://somthin2.github.io/AthanasiosPortfolio/"><img src="./assets/terminal.svg" width="100%" alt="$ whoami — Athanasios Pavlides, security researcher and bug bounty hunter in Klagenfurt, Austria" /></a>
+  <a href="https://somthin2.github.io/AthanasiosPortfolio/?ref=github"><img src="./assets/terminal.svg" width="100%" alt="$ whoami — Athanasios Pavlides, security researcher and bug bounty hunter in Klagenfurt, Austria" /></a>
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> Highlights
@@ -54,7 +54,7 @@
 | Project | What it is |
 |---|---|
 | 🔐 [**Signal-PQC-Integration**](https://github.com/Somthin2/Signal-PQC-Integration) | Post-quantum cryptography (ML-KEM-768) in Signal Desktop — IEEE CSNet'26 |
-| 🎭 [**AthanasiosPortfolio**](https://github.com/Somthin2/AthanasiosPortfolio) | My Phantom-Thief-themed portfolio — [live here](https://somthin2.github.io/AthanasiosPortfolio/) |
+| 🎭 [**AthanasiosPortfolio**](https://github.com/Somthin2/AthanasiosPortfolio) | My Phantom-Thief-themed portfolio — [live here](https://somthin2.github.io/AthanasiosPortfolio/?ref=github) |
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> Open to
 
